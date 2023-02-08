@@ -1,0 +1,38 @@
+.outer{
+    background-color:antiquewhite;
+    margin:auto;
+    height:400px;
+    width:400px;
+    border:2px solid black;
+    position:relative;
+    }
+    p{
+    margin-left:80px;
+    }
+    .in{
+    margin-left:80px;
+    padding:10px;
+    border-radius: 5%;
+    }
+    #bt{
+    margin-top:20px;
+    position:absolute;
+    left: 140px;
+    background-color: red;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 5%;
+    padding: 10px;
+    }
+    #bt:hover{
+    margin-top:20px;
+    background:green;
+    font-size:20px;
+    cursor:pointer;
+    color:white;
+    border-radius: 5%;
+    }
